@@ -31,3 +31,5 @@ PalindromeChecker o/pn link - https://github.com/AbhinandanIthal/java-programs/b
 StringCheck o/p link - https://github.com/AbhinandanIthal/java-programs/blob/main/3b1.png
 
 StringReversal o/p link - https://github.com/AbhinandanIthal/java-programs/blob/main/3b3.png
+
+SubStringCounter o/p link - https://github.com/AbhinandanIthal/java-programs/blob/main/3b2.png
