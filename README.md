@@ -70,3 +70,16 @@ https://github.com/AbhinandanIthal/java-programs/blob/main/7b.2.png
 
 CookieServlet o/p link - https://github.com/AbhinandanIthal/java-programs/blob/main/8a.1.png
 https://github.com/AbhinandanIthal/java-programs/blob/main/8a.2.png
+
+setSession.jsp - https://github.com/AbhinandanIthal/java-programs/blob/main/9c.2.png
+https://github.com/AbhinandanIthal/java-programs/blob/main/9c.1.png
+
+SessionServlet.jsp - https://github.com/AbhinandanIthal/java-programs/blob/main/9a.png
+
+welcome.jsp - https://github.com/AbhinandanIthal/java-programs/blob/main/9b.1.png
+
+UseDataServlet - https://github.com/AbhinandanIthal/java-programs/blob/main/10a.1.png
+https://github.com/AbhinandanIthal/java-programs/blob/main/10a.2.png
+
+ResultServlet - https://github.com/AbhinandanIthal/java-programs/blob/main/10b1.png
+https://github.com/AbhinandanIthal/java-programs/blob/main/10b2.png
