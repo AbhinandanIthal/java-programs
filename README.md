@@ -14,4 +14,4 @@ ColorSorter o/p link - https://github.com/AbhinandanIthal/java-programs/blob/mai
 
 InsertAtEnd o/p link - https://github.com/AbhinandanIthal/java-programs/blob/main/P8.png
 
-LinkedListIteration o/p link - https://github.com/AbhinandanIthal/java-programs/blob/main/P7.png
+ReversedLinkedList o/p link - https://github.com/AbhinandanIthal/java-programs/blob/main/P7.png
