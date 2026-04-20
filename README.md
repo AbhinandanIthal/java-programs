@@ -5,3 +5,5 @@ DisplayLnkedList o/p link - https://github.com/AbhinandanIthal/java-programs/blo
 ColorSearch o/p link - https://github.com/AbhinandanIthal/java-programs/blob/main/P1.png
 
 ColorListExample o/p link - https://github.com/AbhinandanIthal/java-programs/blob/main/p4.png
+
+ColorListManager o/p link - https://github.com/AbhinandanIthal/java-programs/blob/main/p2.png
