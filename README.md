@@ -7,3 +7,5 @@ ColorSearch o/p link - https://github.com/AbhinandanIthal/java-programs/blob/mai
 ColorListExample o/p link - https://github.com/AbhinandanIthal/java-programs/blob/main/p4.png
 
 ColorListManager o/p link - https://github.com/AbhinandanIthal/java-programs/blob/main/p2.png
+
+ColorManager o/p link - https://github.com/AbhinandanIthal/java-programs/blob/main/P5.png
