@@ -1,3 +1,6 @@
+//Write a Java Program for Creating a random string of a specified length using user defined function generateRandomString()
+
+
 package c3;
 
 import java.util.Random;
