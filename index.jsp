@@ -1,18 +1,17 @@
 <%@ page language="java" %>
 <html>
 <head>
-    <title>Cookie Management</title>
+    <title>Session Input</title>
 </head>
 <body>
 
-<h2>Cookie Management Form</h2>
+<h2>Enter Details</h2>
 
-<form action="addCookie.jsp" method="post">
-    Name: <input type="text" name="name" required><br><br>
-    Domain: <input type="text" name="domain" required><br><br>
-    Max Expiry Age (sec): <input type="number" name="age" required><br><br>
+<form action="setSession.jsp" method="post">
+    Name: <input type="text" name="username" required><br><br>
+    Session Time (minutes): <input type="number" name="time" required><br><br>
 
-    <input type="submit" value="Add Cookie">
+    <input type="submit" value="Submit">
 </form>
 
 </body>
