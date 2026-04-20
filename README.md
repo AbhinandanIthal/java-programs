@@ -33,3 +33,5 @@ StringCheck o/p link - https://github.com/AbhinandanIthal/java-programs/blob/mai
 StringReversal o/p link - https://github.com/AbhinandanIthal/java-programs/blob/main/3b3.png
 
 SubStringCounter o/p link - https://github.com/AbhinandanIthal/java-programs/blob/main/3b2.png
+
+WhiteSpaceRemover o/p link - https://github.com/AbhinandanIthal/java-programs/blob/main/3b5.png
