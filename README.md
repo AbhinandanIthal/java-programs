@@ -17,3 +17,5 @@ InsertAtEnd o/p link - https://github.com/AbhinandanIthal/java-programs/blob/mai
 ReversedLinkedList o/p link - https://github.com/AbhinandanIthal/java-programs/blob/main/P7.png
 
 LinkedListIteration o/p link - https://github.com/AbhinandanIthal/java-programs/blob/main/P6.png
+
+SwappedLinkedList o/p link - https://github.com/AbhinandanIthal/java-programs/blob/main/P10.png
