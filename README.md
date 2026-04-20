@@ -27,3 +27,5 @@ PerformanceTest o/p link - https://github.com/AbhinandanIthal/java-programs/blob
 StringOperationDemo o/p link - https://github.com/AbhinandanIthal/java-programs/blob/main/3a.png
 
 PalindromeChecker o/pn link - https://github.com/AbhinandanIthal/java-programs/blob/main/3b4.png
+
+StringCheck o/p link - https://github.com/AbhinandanIthal/java-programs/blob/main/3b1.png
