@@ -35,3 +35,7 @@ StringReversal o/p link - https://github.com/AbhinandanIthal/java-programs/blob/
 SubStringCounter o/p link - https://github.com/AbhinandanIthal/java-programs/blob/main/3b2.png
 
 WhiteSpaceRemover o/p link - https://github.com/AbhinandanIthal/java-programs/blob/main/3b5.png
+
+CapitalizeEachWord o/p link - https://github.com/AbhinandanIthal/java-programs/blob/main/3c1.png
+
+stringTruncate o/p link - https://github.com/AbhinandanIthal/java-programs/blob/main/3c2.png
