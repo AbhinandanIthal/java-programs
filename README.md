@@ -19,3 +19,7 @@ ReversedLinkedList o/p link - https://github.com/AbhinandanIthal/java-programs/b
 LinkedListIteration o/p link - https://github.com/AbhinandanIthal/java-programs/blob/main/P6.png
 
 SwappedLinkedList o/p link - https://github.com/AbhinandanIthal/java-programs/blob/main/P10.png
+
+StringOperationDemo o/p link - https://github.com/AbhinandanIthal/java-programs/blob/main/2a.png
+
+PerformanceTest o/p link - https://github.com/AbhinandanIthal/java-programs/blob/main/2b.png
